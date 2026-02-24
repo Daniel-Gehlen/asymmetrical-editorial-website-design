@@ -1,7 +1,3 @@
-# DESIGN ASSIMÉTRICO / EDITORIAL
-
----
-
 # 🎨 Assymetric - Design Assimétrico / Editorial
 
 ![Versão](https://img.shields.io/badge/versão-1.0.0-blue)
