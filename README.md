@@ -1,9 +1,5 @@
 # DESIGN ASSIMÉTRICO / EDITORIAL
 
-### 📄 About (English)
-
-**Asymmetric Editorial Layout Website** - A creative magazine-style prototype built with HTML5 and CSS3. Features 120px hero typography, floating images with shape-outside, overlapping text cards, rotated quote blocks, and multi-column text. Implements CSS transforms, clipping paths, drop shadows, and responsive design. Perfect for digital magazines, fashion sites, and creative studios.
-
 ---
 
 # 🎨 Assymetric - Design Assimétrico / Editorial
